@@ -1,0 +1,9 @@
+{
+  "name": "Мой прогресс 2.0",
+  "short_name": "Мой прогресс",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101a16",
+  "theme_color": "#101a16",
+  "lang": "ru"
+}
